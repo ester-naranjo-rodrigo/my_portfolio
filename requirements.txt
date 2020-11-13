@@ -1,0 +1,7 @@
+arrow
+django
+django-debug-toolbar
+gunicorn
+whitenoise
+dj-database-url
+psycopg2
